@@ -1,8 +1,6 @@
-package lesson1;
+package seminar_1;
 
-import lesson1.tasks.Task1;
-import lesson1.tasks.Task2;
-import lesson1.tasks.Task3;
+import seminar_1.tasks.Task3;
 
 public class Main {
     public static void main(String[] args) {
