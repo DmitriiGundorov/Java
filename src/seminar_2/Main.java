@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 //        System.out.println("%s", Task_1.getRepeatString(6));
 //        System.out.println(Task_2.stringCompression("aaaabbbcdd"));
-Task_3.write("Test");
+Task_3.write("Test" + "\n");
     }
 }
 
