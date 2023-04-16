@@ -32,4 +32,5 @@ public class Task_1 {
             throw new RuntimeException(e);
         }
     }
+
 }
