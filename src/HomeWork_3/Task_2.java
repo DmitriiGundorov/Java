@@ -18,9 +18,11 @@ public class Task_2 {
         }
         System.out.println("Исходный массив: " + list);
         for (int i = 0; i < list.size(); i++) {
-            if (list.get(i) % 2 != 1) list.remove(i);
+            if (list.get(i) % 2 != 1) {
+                list.remove(i);
+                i--;
+            }
         }
         System.out.println("Преобразованный массив: " + list);
     }
 }
-
