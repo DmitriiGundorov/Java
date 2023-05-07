@@ -1,4 +1,4 @@
-package HomeWork_1;
+package OOP_HomeWork_1;
 
 import java.util.Date;
 
